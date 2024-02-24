@@ -20,6 +20,7 @@ For more than 100 years, USDA’s Agricultural Research Service (ARS) has analyz
 As analytical sampling continues and resources and staff are becoming increasingly limited, FDC is establishing new ways to incorporate data.  The old paradigm of careful targeted analysis of a complete set of nutrients does not work at a time when the analysis of 1 food can exceed $50,000.  It would be beneficial to look back at historical data and see how the data has changed and remained the same.  This insight will provide a better understanding of which nutrients or components should be analyzed and which ones remain constant. 
 
 **Questions**
+
 Have food components changed over time for equivalent foods in the two data types?  
 Is there a difference between food components recently analyzed in Foundation Foods compared to matching foods in the historical SR Legacy dataset?  
 When comparing nutrients/components in equivalent foods from the two different data types, does the mean value for SR Legacy fall between the minimum and maximum values of the Foundation Foods?  
