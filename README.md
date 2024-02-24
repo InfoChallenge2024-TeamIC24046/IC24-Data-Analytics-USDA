@@ -18,3 +18,9 @@ For more than 100 years, USDA’s Agricultural Research Service (ARS) has analyz
 **SR Legacy** has been the primary food composition data type in the United States for decades. It is considered historic food composition data and will not be updated further.  It provides a comprehensive list of values for food components, including nutrients derived from analyses, imputations, and the published literature. This data type has provided the values for most other public and private food composition databases and has supported a wide range of public policy initiatives, research studies, and diet planning and education activities.  These values were generated before 2019 and will have a mean value and depending on the number of data points may have a min, max, and standard error.
 
 As analytical sampling continues and resources and staff are becoming increasingly limited, FDC is establishing new ways to incorporate data.  The old paradigm of careful targeted analysis of a complete set of nutrients does not work at a time when the analysis of 1 food can exceed $50,000.  It would be beneficial to look back at historical data and see how the data has changed and remained the same.  This insight will provide a better understanding of which nutrients or components should be analyzed and which ones remain constant. 
+
+**Questions**
+Have food components changed over time for equivalent foods in the two data types?  
+Is there a difference between food components recently analyzed in Foundation Foods compared to matching foods in the historical SR Legacy dataset?  
+When comparing nutrients/components in equivalent foods from the two different data types, does the mean value for SR Legacy fall between the minimum and maximum values of the Foundation Foods?  
+Which nutrients/components fall out of range the most and which fall in range more frequently?  
